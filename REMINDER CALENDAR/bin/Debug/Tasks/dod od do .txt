@@ -1,0 +1,9 @@
+{
+  "Id": "79deaade-ecb0-4e51-8059-16af10c6e05b",
+  "Title": "dod od do ",
+  "Description": "asd asd as d",
+  "StartDateTime": "2025-04-09T14:11:00+07:00",
+  "EndDateTime": "2025-04-09T15:09:01.6716132+07:00",
+  "IsCompleted": false,
+  "IsMuted": false
+}

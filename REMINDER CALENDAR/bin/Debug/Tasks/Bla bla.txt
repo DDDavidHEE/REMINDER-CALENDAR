@@ -1,0 +1,9 @@
+{
+  "Id": "ffd5ac76-de1f-4814-beff-5260ae489d1c",
+  "Title": "Bla bla",
+  "Description": "make it hardd",
+  "StartDateTime": "2025-04-09T14:12:00+07:00",
+  "EndDateTime": "2025-04-09T15:02:15.2626224+07:00",
+  "IsCompleted": false,
+  "IsMuted": false
+}

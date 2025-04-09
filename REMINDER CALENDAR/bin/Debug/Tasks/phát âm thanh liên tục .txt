@@ -1,0 +1,9 @@
+{
+  "Id": "779b594a-4ced-44d5-b6ba-4d73be626487",
+  "Title": "phát âm thanh liên tục ",
+  "Description": "",
+  "StartDateTime": "2025-03-21T16:15:00+07:00",
+  "EndDateTime": "2025-03-21T01:00:00+07:00",
+  "IsCompleted": true,
+  "IsMuted": false
+}

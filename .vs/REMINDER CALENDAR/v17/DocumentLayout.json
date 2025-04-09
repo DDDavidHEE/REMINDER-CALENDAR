@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\views\\taskeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\views\\taskeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|c:\\users\\admin\\downloads\\reminder-calendar-main\\reminder-calendar-main\\reminder calendar\\tasknotificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\tasknotificationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\tasknotificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\tasknotificationwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\controllers\\remindercalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\controllers\\remindercalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\views\\taskeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\views\\taskeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\models\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\models\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\converters\\completedtaskconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\converters\\completedtaskconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\46c1cb05fcfeda574df28f9f82a843b88754e72b0896adc095ec4b198d5b4422\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\converters\\mutetaskcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\converters\\mutetaskcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\reminder calendar\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4311D21E-6A30-4B17-B9B1-DB71D8455B25}|REMINDER CALENDAR\\REMINDER CALENDAR.csproj|solutionrelative:reminder calendar\\models\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3714f74b82eacc6cf8dcf1e32980b0908d4f8b447d25d4eb08ff1424a7b57c02\\ResourcePart.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwCsAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:12:39.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAEMBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:47:00.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\TaskItem.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:52:35.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "REMINDER CALENDAR\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T15:47:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskNotificationWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\TaskNotificationWindow.xaml",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\TaskNotificationWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\TaskNotificationWindow.xaml",
+              "RelativeToolTip": "REMINDER CALENDAR\\TaskNotificationWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T08:49:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\46c1cb05fcfeda574df28f9f82a843b88754e72b0896adc095ec4b198d5b4422\\FrameworkTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\46c1cb05fcfeda574df28f9f82a843b88754e72b0896adc095ec4b198d5b4422\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\46c1cb05fcfeda574df28f9f82a843b88754e72b0896adc095ec4b198d5b4422\\FrameworkTemplate.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\46c1cb05fcfeda574df28f9f82a843b88754e72b0896adc095ec4b198d5b4422\\FrameworkTemplate.cs",
+              "ViewState": "AgIAAPwCAAAAAAAAAAAgwBUDAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:08:56.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RuntimeType.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs",
+              "ToolTip": "C:\\Users\\admin\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c127a365c8211b835a6e272639aca6b30d12698fabcaeb2687b791ca6edcba1\\RuntimeType.cs [Read Only]",
+              "ViewState": "AgIAABMQAAAAAAAAAAAIwCUQAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T01:19:34.572Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReminderCalendarController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Controllers\\ReminderCalendarController.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Controllers\\ReminderCalendarController.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Controllers\\ReminderCalendarController.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Controllers\\ReminderCalendarController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:01:31.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\TaskEditWindow.xaml",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Views\\TaskEditWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\TaskEditWindow.xaml",
+              "RelativeToolTip": "REMINDER CALENDAR\\Views\\TaskEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T16:28:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\TaskEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Views\\TaskEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Views\\TaskEditWindow.xaml.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Views\\TaskEditWindow.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwGYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:29:03.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskNotificationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\TaskNotificationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\TaskNotificationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\TaskNotificationWindow.xaml.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\TaskNotificationWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAywGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:49:22.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Models\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\TaskRepository.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Models\\TaskRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:54:17.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MuteTaskColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Converters\\MuteTaskColorConverter.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Converters\\MuteTaskColorConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Converters\\MuteTaskColorConverter.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Converters\\MuteTaskColorConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:43:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Models\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Models\\RelayCommand.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Models\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:36:38.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompletedTaskConverter.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Converters\\CompletedTaskConverter.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Converters\\CompletedTaskConverter.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Converters\\CompletedTaskConverter.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Converters\\CompletedTaskConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:35:19.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\App.xaml",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\App.xaml",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\App.xaml",
+              "RelativeToolTip": "REMINDER CALENDAR\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-12T16:09:29.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:38:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\App.xaml.cs",
+              "RelativeDocumentMoniker": "REMINDER CALENDAR\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\REMINDER-CALENDAR-main\\REMINDER-CALENDAR-main\\REMINDER CALENDAR\\App.xaml.cs",
+              "RelativeToolTip": "REMINDER CALENDAR\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:12:26.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

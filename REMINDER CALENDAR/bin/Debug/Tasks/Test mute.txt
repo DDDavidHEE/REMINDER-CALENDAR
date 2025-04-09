@@ -1,0 +1,9 @@
+{
+  "Id": "00a5ab6a-610a-417b-bee5-c72ec7fea86d",
+  "Title": "Test mute",
+  "Description": "",
+  "StartDateTime": "2025-03-25T12:59:00+07:00",
+  "EndDateTime": "2025-03-25T13:58:00.096731+07:00",
+  "IsCompleted": false,
+  "IsMuted": true
+}
