@@ -1,0 +1,10 @@
+{
+  "Id": "89219858-2885-4340-985c-cfa64ba972ac",
+  "Title": "check soudns",
+  "Description": "sdds",
+  "StartDateTime": "2025-04-10T13:47:00+07:00",
+  "EndDateTime": "2025-04-10T14:45:33.2434068+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

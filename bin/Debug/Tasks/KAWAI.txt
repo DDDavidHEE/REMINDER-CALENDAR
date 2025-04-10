@@ -1,0 +1,10 @@
+{
+  "Id": "5f36310e-698b-4148-a612-3fb854795113",
+  "Title": "KAWAI",
+  "Description": "KAWAI",
+  "StartDateTime": "2025-04-09T23:31:00+07:00",
+  "EndDateTime": "2025-04-10T00:30:28.2088225+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

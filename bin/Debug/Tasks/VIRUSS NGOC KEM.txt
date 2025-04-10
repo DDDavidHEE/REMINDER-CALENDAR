@@ -1,0 +1,9 @@
+{
+  "Id": "fa24ffe8-421f-496a-892d-14e5da86e825",
+  "Title": "VIRUSS NGOC KEM",
+  "Description": "",
+  "StartDateTime": "2025-03-25T15:22:32.8357979+07:00",
+  "EndDateTime": "2025-03-25T16:22:32.8357979+07:00",
+  "IsCompleted": true,
+  "IsMuted": true
+}

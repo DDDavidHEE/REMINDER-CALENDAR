@@ -1,0 +1,10 @@
+{
+  "Id": "2541741f-b7c7-4739-8fb7-2433d79c1105",
+  "Title": "dâud55",
+  "Description": "sdf",
+  "StartDateTime": "2025-04-10T08:01:19.3547833+07:00",
+  "EndDateTime": "2025-04-10T09:01:19.3547833+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

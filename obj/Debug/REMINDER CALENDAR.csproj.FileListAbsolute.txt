@@ -1,0 +1,215 @@
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.baml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.baml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.g.cs
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.cache
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe.config
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ToastNotifications.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.baml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.g.cs
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.g.resources
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER_CALENDAR.Properties.Resources.resources
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER.0EE4F19D.Up2Date
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.lref
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Dynamitey.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\source\repos\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe.config
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Dynamitey.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ToastNotifications.dll
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.baml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.g.cs
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.g.cs
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.cache
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.lref
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.baml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.baml
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.g.resources
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER_CALENDAR.Properties.Resources.resources
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER.0EE4F19D.Up2Date
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\file du phong calendar reminder v2\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe.config
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Dynamitey.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ToastNotifications.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.g.cs
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.cache
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.lref
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\App.baml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\MainWindow.baml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.g.resources
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER_CALENDAR.Properties.Resources.resources
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER.0EE4F19D.Up2Date
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_Content.g.cs
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\TaskNotificationWindow.baml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\TaskNotificationWindow.g.cs
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Asio.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Core.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Midi.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Wasapi.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.WinForms.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.WinMM.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Asio.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Core.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Midi.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.Wasapi.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.WinForms.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\NAudio.WinMM.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\bin\Debug\Assets\Calendarsound.wav
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.baml
+C:\Users\admin\source\repos\file dự phòng reminder calendar v3\REMINDER CALENDAR\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe.config
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Dynamitey.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Asio.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Core.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Midi.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Wasapi.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.WinForms.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.WinMM.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Security.AccessControl.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\ToastNotifications.dll
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Asio.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Core.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Midi.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.Wasapi.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.WinForms.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\NAudio.WinMM.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Drawing.Common.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Security.AccessControl.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\TaskNotificationWindow.baml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.baml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\TaskNotificationWindow.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\Views\MainWindow.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\Views\TaskEditWindow.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\App.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.cache
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_MarkupCompile.lref
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\App.baml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\Views\MainWindow.baml
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.g.resources
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER_CALENDAR.Properties.Resources.resources
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER.0EE4F19D.Up2Date
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.exe
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR.pdb
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Assets\Calendarsound.wav
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\obj\Debug\REMINDER CALENDAR_Content.g.cs
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Assets\nhạc chuông báo thức độc đáo trong quân đội.mp3
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Assets\NHẠC-BÁO-THỨC-NHẸ-NHÀNG.wav
+C:\Users\admin\Downloads\REMINDER-CALENDAR-main\REMINDER-CALENDAR-main\REMINDER CALENDAR\bin\Debug\Assets\Nhạc-chuông-Iphone-ám-ảnh-khi-đặt-báo-thức_1.wav

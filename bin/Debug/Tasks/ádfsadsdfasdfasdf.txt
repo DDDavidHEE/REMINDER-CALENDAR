@@ -1,0 +1,10 @@
+{
+  "Id": null,
+  "Title": "ádfsadsdfasdfasdf",
+  "Description": "ádfasdf",
+  "StartDateTime": "2025-04-10T00:16:00+07:00",
+  "EndDateTime": "2025-04-10T01:15:24.2783029+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

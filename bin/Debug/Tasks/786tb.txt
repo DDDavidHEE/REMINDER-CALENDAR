@@ -1,0 +1,10 @@
+{
+  "Id": "e62bd82c-7a9e-4afd-867e-fb995f5c7b71",
+  "Title": "786tb",
+  "Description": "8hg",
+  "StartDateTime": "2025-04-10T07:42:00+07:00",
+  "EndDateTime": "2025-04-10T08:37:01.115124+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

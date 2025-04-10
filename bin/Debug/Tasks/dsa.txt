@@ -1,0 +1,10 @@
+{
+  "Id": "e1a1d0ba-c6fa-4d17-97f5-9169d1ba6f42",
+  "Title": "dsa",
+  "Description": "ádf",
+  "StartDateTime": "2025-04-10T08:37:00+07:00",
+  "EndDateTime": "2025-04-10T08:46:51.7247178+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

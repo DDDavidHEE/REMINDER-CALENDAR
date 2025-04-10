@@ -1,0 +1,10 @@
+{
+  "Id": "6abd6949-0fff-461e-bbc7-1c644152fad1",
+  "Title": "av",
+  "Description": "sd",
+  "StartDateTime": "2025-04-10T07:57:00+07:00",
+  "EndDateTime": "2025-04-10T08:34:52.2064468+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

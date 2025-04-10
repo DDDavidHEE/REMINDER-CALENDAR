@@ -1,0 +1,10 @@
+{
+  "Id": "ba295b02-e6c8-48d2-ad05-087ee16d7ce8",
+  "Title": "VÁDF",
+  "Description": "DDDD",
+  "StartDateTime": "2025-04-09T23:49:00+07:00",
+  "EndDateTime": "2025-04-10T00:48:06.2830276+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

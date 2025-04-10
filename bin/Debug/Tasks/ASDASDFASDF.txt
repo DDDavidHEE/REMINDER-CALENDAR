@@ -1,0 +1,10 @@
+{
+  "Id": "36268a3d-c810-4f17-8c22-9d765e18df24",
+  "Title": "ASDASDFASDF",
+  "Description": "ASDF",
+  "StartDateTime": "2025-04-09T23:45:00+07:00",
+  "EndDateTime": "2025-04-10T00:44:45.4062173+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

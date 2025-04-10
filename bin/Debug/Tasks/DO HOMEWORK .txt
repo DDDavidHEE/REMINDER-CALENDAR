@@ -1,0 +1,9 @@
+{
+  "Id": "36f464aa-7c3a-42e2-9cee-6105d16d72a3",
+  "Title": "DO HOMEWORK ",
+  "Description": "",
+  "StartDateTime": "2025-03-25T15:20:32.7004117",
+  "EndDateTime": "2025-03-25T16:20:32.7004117",
+  "IsCompleted": false,
+  "IsMuted": false
+}

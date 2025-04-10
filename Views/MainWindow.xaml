@@ -1,0 +1,185 @@
+﻿<Window x:Class="REMINDER_CALENDAR.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:conv="clr-namespace:REMINDER_CALENDAR.Converters"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:REMINDER_CALENDAR"
+        Title="Reminder Calendar" 
+        Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" 
+        AllowsTransparency="True"
+        Background="#F9FAFB">
+
+    <Window.Resources>
+        <conv:CompletedTaskConverter x:Key="CompletedTaskConverter"/>
+        <conv:MuteTaskColorConverter x:Key="MuteTaskColorConverter"/>
+    </Window.Resources>
+
+    <Border Padding="0" BorderBrush="#E5E7EB" BorderThickness="1" Background="#F9FAFB">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- HEADER -->
+            <Border Background="#1F2937" Grid.Row="0">
+                <DockPanel>
+                    <TextBlock Text="REMINDER CALENDAR"
+                               Foreground="White"
+                               FontSize="20"
+                               FontWeight="SemiBold"
+                               Margin="20,10"
+                               DockPanel.Dock="Left" />
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,5,10,0">
+                        <Button Content="—" Click="Minimize_Click"
+                                Background="Transparent" Foreground="White" BorderThickness="0" Width="40" Height="40"/>
+                        <!--<Button x:Name="ZoomButton" Content="□" Click="Zoom_Click"
+                                Background="Transparent" Foreground="White" BorderThickness="0" Width="40" Height="40"/>-->
+                        <Button Content="✕" Click="Close_Click"
+                                Background="Transparent" Foreground="White" BorderThickness="0" Width="48" Height="42"/>
+                    </StackPanel>
+                </DockPanel>
+            </Border>
+
+            <!-- MAIN CONTENT -->
+            <Grid Grid.Row="1" Margin="20,10,20,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <!-- Calendar column -->
+                    <ColumnDefinition Width="3*" />
+                    <!-- Task panel column -->
+                </Grid.ColumnDefinitions>
+
+                <!-- CALENDAR -->
+                <Border Background="#E5E7EB" Padding="10" CornerRadius="8" BorderBrush="#D1D5DB" BorderThickness="1">
+                    <Grid x:Name="CalendarContainer">
+                        <Calendar x:Name="MainCalendar"
+                                  Background="#E5E7EB"
+                                  Foreground="#111827"
+                                  BorderThickness="0"
+                                  DisplayDateStart="2020-01-01"
+                                  DisplayDateEnd="2030-12-31"
+                                  SelectedDatesChanged="MainCalendar_SelectedDatesChanged"
+                                  VerticalAlignment="Top"/>
+                    </Grid>
+                </Border>
+
+                <!-- TASK PANEL -->
+                <Grid Grid.Column="1" Margin="20,0,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- SELECTED DATE -->
+                    <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Right" Margin="0,0,0,10">
+                        <Border Background="White" CornerRadius="6" Padding="10,4" Margin="0,0,10,0"
+                                BorderBrush="#6366F1" BorderThickness="1">
+                            <TextBlock x:Name="SelectedDateText"
+                                       FontSize="22"
+                                       FontWeight="Bold"
+                                       Foreground="#111827"/>
+                        </Border>
+                        <TextBlock x:Name="TaskCountText"
+                                   FontSize="16"
+                                   FontStyle="Italic"
+                                   Foreground="#6B7280" VerticalAlignment="Center"/>
+                    </StackPanel>
+
+
+                    <!-- TASK LIST -->
+                    <ListBox x:Name="TaskListBox"
+                             Grid.Row="1" Margin="0,0,0,80"
+                             BorderThickness="0"
+                             Background="Transparent"
+                             ScrollViewer.VerticalScrollBarVisibility="Auto">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border Margin="5" Padding="10"
+                                        Background="White"
+                                        BorderBrush="#E5E7EB"
+                                        BorderThickness="1"
+                                        CornerRadius="10">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+
+                                        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                                            <TextBlock Text="{Binding Title}" FontWeight="SemiBold" FontSize="16">
+                                                <TextBlock.Style>
+                                                    <Style TargetType="TextBlock">
+                                                        <Setter Property="Foreground" Value="Black" />
+                                                        <Setter Property="FontStyle" Value="Normal" />
+                                                        <Style.Triggers>
+                                                            <!-- Nếu bị mute -->
+                                                            <DataTrigger Binding="{Binding IsMuted}" Value="True">
+                                                                <Setter Property="Foreground" Value="Red" />
+                                                            </DataTrigger>
+
+                                                            <!-- Nếu đã check -->
+                                                            <DataTrigger Binding="{Binding IsCompleted}" Value="True">
+                                                                <Setter Property="FontStyle" Value="Italic" />
+                                                                <Setter Property="Foreground" Value="#6B7280" />
+                                                            </DataTrigger>
+                                                        </Style.Triggers>
+                                                    </Style>
+                                                </TextBlock.Style>
+                                            </TextBlock>
+
+
+                                            <TextBlock Text="{Binding StartDateTime, StringFormat={}{0:HH:mm tt}}" Foreground="#6B7280" FontSize="13"/>
+                                        </StackPanel>
+
+                                        <StackPanel Grid.Column="1" />
+
+                                        <Button Grid.Column="2" Content="⋮"
+                                                Background="Transparent"
+                                                Foreground="#6B7280"
+                                                Click="TaskContextButton_Click">
+                                            <Button.Tag>
+                                                <Binding Path="Id"/>
+                                            </Button.Tag>
+                                            <Button.ContextMenu>
+                                                <ContextMenu DataContext="{Binding PlacementTarget.DataContext, RelativeSource={RelativeSource Self}}">
+                                                    <MenuItem Header="Check" Click="CheckTask_Click" Tag="{Binding Id}" />
+                                                    <MenuItem Header="Mute" Click="MuteTask_Click" Tag="{Binding Id}" />
+                                                    <MenuItem Header="Edit" Click="EditTask_Click" Tag="{Binding Id}" />
+                                                    <MenuItem Header="Delete" Click="DeleteTask_Click" Tag="{Binding Id}" />
+                                                </ContextMenu>
+                                            </Button.ContextMenu>
+                                        </Button>
+                                    </Grid>
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                    <!-- ADD TASK BUTTON -->
+                    <Button x:Name="AddTaskButton"
+        Width="60" Height="60"
+        Grid.Row="2"
+        HorizontalAlignment="Right" VerticalAlignment="Bottom"
+        Background="#6366F1"
+        Foreground="White"
+        FontSize="28"
+        FontWeight="Bold"
+        BorderThickness="0"
+        Margin="0,0,20,20"
+        Content="+"
+        Click="AddTaskButton_Click">
+                        <Button.Effect>
+                            <DropShadowEffect Color="#44000000" BlurRadius="8" ShadowDepth="2"/>
+                        </Button.Effect>
+                    </Button>
+
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

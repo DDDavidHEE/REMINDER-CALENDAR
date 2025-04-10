@@ -1,0 +1,142 @@
+﻿<Window x:Class="REMINDER_CALENDAR.Views.TaskEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Task Editor" Height="520" Width="480"
+        WindowStartupLocation="CenterOwner"
+        Background="#F9FAFB">
+
+    <StackPanel Margin="24" VerticalAlignment="Center">
+        <TextBlock Text="Task Editor" 
+                   FontSize="22" 
+                   FontWeight="Bold" 
+                   Foreground="#1F2937"
+                   Margin="0,0,0,24"
+                   HorizontalAlignment="Center"/>
+
+        <TextBlock Text="Title" FontWeight="SemiBold" Foreground="#374151"/>
+        <TextBox x:Name="TitleTextBox" 
+                 materialDesign:HintAssist.Hint="Title"
+                 Background="White"
+                 BorderBrush="#D1D5DB"
+                 Foreground="#111827"
+                 Margin="0,4,0,12"/>
+
+        <TextBlock Text="Description" Margin="0,0,0,4" FontWeight="SemiBold" Foreground="#374151"/>
+        <TextBox x:Name="DescTextBox"
+                 Height="60" 
+                 AcceptsReturn="True" 
+                 TextWrapping="Wrap"
+                 materialDesign:HintAssist.Hint="Description"
+                 Background="White"
+                 BorderBrush="#D1D5DB"
+                 Foreground="#111827"
+                 Margin="0,0,0,16"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,16" HorizontalAlignment="Center">
+            <StackPanel Width="200">
+                <TextBlock Text="Start Date/Time" FontWeight="SemiBold" Foreground="#374151"/>
+                <DatePicker x:Name="StartDatePicker" Margin="0,4,0,6"/>
+                <materialDesign:TimePicker x:Name="StartTimePicker" SelectedTime="{x:Static sys:DateTime.Now}" />
+            </StackPanel>
+
+            <StackPanel Width="200" Margin="20,0,0,0">
+                <TextBlock Text="End Date/Time" FontWeight="SemiBold" Foreground="#374151"/>
+                <DatePicker x:Name="EndDatePicker" Margin="0,4,0,6"/>
+                <materialDesign:TimePicker x:Name="EndTimePicker" SelectedTime="{x:Static sys:DateTime.Now}" />
+            </StackPanel>
+        </StackPanel>
+
+
+        <Button Content="Song" 
+        Click="ChooseSongButton_Click" 
+        HorizontalAlignment="Center" 
+        Width="100" 
+        Height="36"
+        Margin="0,10,0,0">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Border Background="{TemplateBinding Background}" 
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="1" 
+                    CornerRadius="8">
+                        <!-- Set CornerRadius here -->
+                        <ContentPresenter HorizontalAlignment="Center" 
+                                  VerticalAlignment="Center"/>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+            <Button.Style>
+                <Style TargetType="Button">
+                    <!-- Normal background color -->
+                    <Setter Property="Background" Value="#6366F1"/>
+                    <!-- Blue color -->
+                    <Setter Property="Foreground" Value="White"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                    <Setter Property="FontSize" Value="16"/>
+
+                    <!-- Button border -->
+                    <Setter Property="BorderBrush" Value="#4F46E5"/>
+                    <Setter Property="BorderThickness" Value="1"/>
+
+                    <!-- Button effects -->
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#44000000"/>
+                        </Setter.Value>
+                    </Setter>
+
+                    <!-- Hover effect -->
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsMouseOver, RelativeSource={RelativeSource Self}}" Value="True">
+                            <Setter Property="Background" Value="#4F46E5"/>
+                            <!-- Darker blue on hover -->
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding IsPressed, RelativeSource={RelativeSource Self}}" Value="True">
+                            <Setter Property="Background" Value="#3730A3"/>
+                            <!-- Even darker blue on press -->
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <Button x:Name="SaveButton"
+                    Content="Save"
+                    Width="100"
+                    Height="36"
+                    Background="#6366F1"
+                    Foreground="White"
+                    FontWeight="SemiBold"
+                    BorderThickness="0"
+                    Margin="8,0"
+                    Click="SaveButton_Click">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#44000000"/>
+                </Button.Effect>
+            </Button>
+            <Button x:Name="CancelButton"
+                    Content="Cancel"
+                    Width="100"
+                    Height="36"
+                    Background="#E5E7EB"
+                    Foreground="#374151"
+                    FontWeight="SemiBold"
+                    BorderThickness="0"
+                    Margin="8,0"
+                    Click="CancelButton_Click">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#22000000"/>
+                </Button.Effect>
+            </Button>
+        </StackPanel>
+    </StackPanel>
+
+
+   
+</Window>

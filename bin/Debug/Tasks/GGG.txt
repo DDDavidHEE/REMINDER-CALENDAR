@@ -1,0 +1,10 @@
+{
+  "Id": "4234d458-24e3-4494-b310-248f19b06d57",
+  "Title": "GGG",
+  "Description": "GGG",
+  "StartDateTime": "2025-04-09T23:22:00+07:00",
+  "EndDateTime": "2025-04-10T00:21:09.2806295+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

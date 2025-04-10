@@ -1,0 +1,10 @@
+{
+  "Id": "c777bf7f-955d-4f78-90f6-7133353ae5a7",
+  "Title": "Go to school",
+  "Description": "",
+  "StartDateTime": "2025-04-04T07:00:00",
+  "EndDateTime": "2025-04-04T10:02:31.7431396",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

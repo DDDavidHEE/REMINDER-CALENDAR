@@ -1,0 +1,10 @@
+{
+  "Id": "c2d13e05-2edf-4dd8-9696-2c98c53d85f7",
+  "Title": "Meditation",
+  "Description": "",
+  "StartDateTime": "2025-04-04T06:29:00",
+  "EndDateTime": "2025-04-04T10:07:04.4606766",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

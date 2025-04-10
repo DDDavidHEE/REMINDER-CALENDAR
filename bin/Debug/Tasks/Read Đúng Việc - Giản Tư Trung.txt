@@ -1,0 +1,10 @@
+{
+  "Id": "47b130db-4bdf-4ed2-ab3a-a20960225365",
+  "Title": "Read Đúng Việc - Giản Tư Trung",
+  "Description": "",
+  "StartDateTime": "2025-04-04T12:00:00",
+  "EndDateTime": "2025-04-04T10:06:22.4206744",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}

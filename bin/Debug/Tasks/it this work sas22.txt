@@ -1,0 +1,10 @@
+{
+  "Id": "73bb67e9-b4a4-4b1d-a7ea-45a71386059d",
+  "Title": "it this work sas22",
+  "Description": "sdfasd",
+  "StartDateTime": "2025-04-10T15:07:00+07:00",
+  "EndDateTime": "2025-04-10T16:05:16.4782517+07:00",
+  "SoundFilePath": "C:\\Users\\admin\\Downloads\\nhạc chuông báo thức độc đáo trong quân đội.mp3",
+  "IsCompleted": false,
+  "IsMuted": false
+}

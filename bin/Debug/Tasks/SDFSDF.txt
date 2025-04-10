@@ -1,0 +1,10 @@
+{
+  "Id": "f61c53f8-2935-4e33-8e8d-2b50b78c3c01",
+  "Title": "SDFSDF",
+  "Description": "SDFSDSDF",
+  "StartDateTime": "2025-04-09T23:41:00+07:00",
+  "EndDateTime": "2025-04-10T00:40:08.9262234+07:00",
+  "AudioPath": null,
+  "IsCompleted": false,
+  "IsMuted": false
+}
